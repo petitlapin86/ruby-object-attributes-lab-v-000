@@ -9,3 +9,5 @@ class Person
     @this_dogs_name #this is an instance variable
   end
 end
+
+fido = Dog.new # I am new objects being added to my class 
