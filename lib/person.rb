@@ -8,4 +8,4 @@ class Person
  def name #this method is reporting or reading the name AKA GETTER METHOD
     @this_dogs_name #this is an instance variable
   end
-end 
+end
