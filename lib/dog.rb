@@ -7,4 +7,3 @@ class Dog
     @this_dogs_name #this is an instance variable
   end
 end
-
