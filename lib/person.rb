@@ -14,5 +14,4 @@ class Person
  def job #this method is reporting or reading the name AKA GETTER METHOD
     @job #this is an instance variable
   end
-end 
-
+end
