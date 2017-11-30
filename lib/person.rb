@@ -10,5 +10,5 @@ class Person
   end
 end
 
-fido = Dog.new # I am new objects being added to my class 
-fido.name = "Fido" 
+fido = Dog.new # I am new objects being added to my class
+fido.name = "Fido"
